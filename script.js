@@ -50,7 +50,7 @@ const quizData = [
         correct: 2,
     },
     {
-        question: "Who wrote 'Romeo and Juliet'?",
+        question: "Who wrote the play 'Romeo and Juliet'?",
         options: [
             "Charles Dickens",
             "William Shakespeare",
