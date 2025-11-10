@@ -39,6 +39,8 @@ A fully functional, responsive quiz web application built with vanilla HTML, CSS
 1. **Download the file**
    ```bash
    # Save the HTML file to your computer
+   # save the CSS file to your computer
+   # save the JS file to your computer
    ```
 
 2. **Open in browser**
